@@ -11,11 +11,11 @@
   <img align="right" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
-👩‍💻<b>My name is Isis Estevan</b>.
+👩‍💻<b>Meu nome é Isis Estevan</b>.
 <br />
-📚 <b>Computer Science student at Universidade de Itaúna</b>.<br />
+📚 <b>Atualmente no 4° Período de Ciência da Computação na Universidade de Itaúna.</b>.<br />
 <b>
-🖥<b>Focused on Full Stack .</b>
+🖥<b>Focada em Full-Stack .</b>
 </p>
 
 <hr />
