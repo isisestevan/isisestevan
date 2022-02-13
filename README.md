@@ -13,9 +13,9 @@
 <p align="left" >
 👩‍💻<b>Meu nome é Isis Estevan</b>.
 <br />
-📚 <b>Atualmente no 4° Período de Ciência da Computação na Universidade de Itaúna</b>.<br />
+📚 <b>Atualmente no 5° Período de Ciência da Computação na Universidade de Itaúna</b>.<br />
 <b>
-🖥<b>Focada em Full-Stack .</b>
+🖥<b>Focada em Front-End .</b>
 </p>
 
 <hr />
