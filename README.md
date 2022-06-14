@@ -52,4 +52,4 @@
 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isisestevan" alt="Isis-Estevan" /> </p> 
-![Snake animation](https://github.com/isisestevan/isisestevan/blob/output/github-contribution-grid-snake.svg)
+
