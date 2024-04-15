@@ -13,9 +13,8 @@
 <p align="left" >
 👩‍💻<b>Meu nome é Isis Estevan</b>.
 <br />
-📚 <b>Atualmente no 6° Período de Ciência da Computação na Universidade de Itaúna</b>.<br />
-<b>
-🖥<b>Focada em Front-End .</b>
+📚 <b>Atualmente sou desenvolvedora FullStack atuando em Angular e C#</b>.<br />
+
 </p>
 
 <hr />
@@ -24,7 +23,7 @@
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1626374766963.png" width="400px" />
 
-- 👩‍💻 Estou estudando front-end com **HTML**, **CSS** e **JS**;
+- 👩‍💻 Estou estudando Machine Learning e IA;
 
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 
