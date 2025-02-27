@@ -30,7 +30,8 @@
 - 💬 Fique a vontade para me chamar nas minhas redes sociais que estão acima, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser  também pode enviar um email para: isisestevan@gmail.com.
 
-  ![Estatísticas do WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=isisestevan)
+  ![Estatísticas do WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=isisestevan&v=2)
+
 
 
 <p>
