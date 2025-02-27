@@ -30,6 +30,8 @@
 - 💬 Fique a vontade para me chamar nas minhas redes sociais que estão acima, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser  também pode enviar um email para: isisestevan@gmail.com.
 
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isisestevan&layout=compact&theme=graywhite&title_color=268bd2" alt="Isis-Estevan" />
